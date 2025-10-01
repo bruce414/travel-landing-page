@@ -6,7 +6,7 @@ const NavBar = () => {
   return (
     <>
         <nav className='flex items-center w-full py-6'>
-          <div className='text-2xl font-bold text-black flex flex-1'><a href='#'>RoamCircle</a></div>
+          <div className='text-3xl font-bold text-black flex flex-1'><a href='#'>RoamCircle</a></div>
 
           <ul className='flex list-none gap-5 flex-1'>
             <li className='text-black'><a href='#'>Home</a></li>
