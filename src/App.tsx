@@ -2,6 +2,7 @@ import React from 'react'
 import HeroSection from './sections/HeroSection'
 import NavBar from './components/NavBar'
 import ExploreSection from './sections/ExploreSection'
+import ReasoningSection from './sections/ReasoningSection'
 
 const App = () => {
   return (
@@ -10,6 +11,7 @@ const App = () => {
         <NavBar />
         <HeroSection />
         <ExploreSection />
+        <ReasoningSection />
       </div>
     </>
   )
