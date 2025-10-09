@@ -31,7 +31,7 @@ const ReasoningSection = () => {
             </div>
             <div className='pt-20 flex gap-10'>
                 <div className='flex flex-col flex-1 gap-5 text-center justify-center items-center'>
-                    <div className='bg-blue-300 shadow-xl rounded-full h-15 w-15 flex items-center justify-center'>
+                    <div className='bg-black shadow-xl rounded-full h-15 w-15 flex items-center justify-center'>
                         <FontAwesomeIcon icon={faCrown} className='text-white text-2xl'/>
                     </div>
                     <p className='font-semibold'>Best travel provider</p>
@@ -44,7 +44,7 @@ const ReasoningSection = () => {
                     </p>
                 </div>
                 <div className='flex flex-col flex-1 gap-5 text-center justify-center items-center'>
-                    <div className='bg-blue-300 shadow-xl rounded-full h-15 w-15 flex items-center justify-center'>
+                    <div className='bg-black shadow-xl rounded-full h-15 w-15 flex items-center justify-center'>
                         <FontAwesomeIcon icon={faPhone} className='text-white text-2xl'/>
                     </div>
                     <p className='font-semibold'>Personalized service</p>
@@ -57,7 +57,7 @@ const ReasoningSection = () => {
                     </p>
                 </div>
                 <div className='flex flex-col flex-1 gap-5 text-center justify-center items-center'>
-                    <div className='bg-blue-300 shadow-xl rounded-full h-15 w-15 flex items-center justify-center'>
+                    <div className='bg-black shadow-xl rounded-full h-15 w-15 flex items-center justify-center'>
                         <FontAwesomeIcon icon={faGlobeAsia} className='text-white text-2xl'/>
                     </div>
                     <p className='font-semibold'>Experienced agent</p>
@@ -70,7 +70,7 @@ const ReasoningSection = () => {
                     </p>
                 </div>
                 <div className='flex flex-col flex-1 gap-5 text-center justify-center items-center'>
-                    <div className='bg-blue-300 shadow-xl rounded-full h-15 w-15 flex items-center justify-center'>
+                    <div className='bg-black shadow-xl rounded-full h-15 w-15 flex items-center justify-center'>
                         <FontAwesomeIcon icon={faBook} className='text-white text-2xl'/>
                     </div>
                     <p className='font-semibold'>Trouble-free</p>
