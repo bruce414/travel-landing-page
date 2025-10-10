@@ -4,6 +4,7 @@ import NavBar from './components/NavBar'
 import ExploreSection from './sections/ExploreSection'
 import ReasoningSection from './sections/ReasoningSection'
 import DestinationSection from './sections/DestinationSection'
+import ArticleSection from './sections/ArticleSection'
 
 const App = () => {
   return (
@@ -14,6 +15,7 @@ const App = () => {
         <ExploreSection />
         <ReasoningSection />
         <DestinationSection />
+        <ArticleSection />
       </div>
     </>
   )
