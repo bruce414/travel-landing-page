@@ -5,6 +5,7 @@ import ExploreSection from './sections/ExploreSection'
 import ReasoningSection from './sections/ReasoningSection'
 import DestinationSection from './sections/DestinationSection'
 import ArticleSection from './sections/ArticleSection'
+import ContactSection from './sections/ContactSection'
 
 const App = () => {
   return (
@@ -17,6 +18,7 @@ const App = () => {
         <DestinationSection />
         <ArticleSection />
       </div>
+      <ContactSection />
     </>
   )
 }
