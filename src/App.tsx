@@ -6,6 +6,7 @@ import ReasoningSection from './sections/ReasoningSection'
 import DestinationSection from './sections/DestinationSection'
 import ArticleSection from './sections/ArticleSection'
 import ContactSection from './sections/ContactSection'
+import FooterSection from './sections/FooterSection'
 
 const App = () => {
   return (
@@ -19,6 +20,7 @@ const App = () => {
         <ArticleSection />
       </div>
       <ContactSection />
+      <FooterSection />
     </>
   )
 }
